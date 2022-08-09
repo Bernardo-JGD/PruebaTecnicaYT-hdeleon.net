@@ -1,0 +1,8 @@
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\DistanciaHamming\bin\Debug\DistanciaHamming.exe.config
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\DistanciaHamming\bin\Debug\DistanciaHamming.exe
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\DistanciaHamming\bin\Debug\DistanciaHamming.pdb
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\DistanciaHamming\obj\Debug\DistanciaHamming.csproj.AssemblyReference.cache
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\DistanciaHamming\obj\Debug\DistanciaHamming.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\DistanciaHamming\obj\Debug\DistanciaHamming.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\DistanciaHamming\obj\Debug\DistanciaHamming.exe
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\DistanciaHamming\obj\Debug\DistanciaHamming.pdb

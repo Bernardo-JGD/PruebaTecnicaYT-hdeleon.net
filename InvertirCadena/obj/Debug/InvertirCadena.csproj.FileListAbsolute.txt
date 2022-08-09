@@ -1,0 +1,8 @@
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\InvertirCadena\bin\Debug\InvertirCadena.exe.config
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\InvertirCadena\bin\Debug\InvertirCadena.exe
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\InvertirCadena\bin\Debug\InvertirCadena.pdb
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\InvertirCadena\obj\Debug\InvertirCadena.csproj.AssemblyReference.cache
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\InvertirCadena\obj\Debug\InvertirCadena.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\InvertirCadena\obj\Debug\InvertirCadena.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\InvertirCadena\obj\Debug\InvertirCadena.exe
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\InvertirCadena\obj\Debug\InvertirCadena.pdb

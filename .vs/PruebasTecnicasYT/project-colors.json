@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7941f5a3-61fb-49c6-9f53-f64ab890dc90": {
+      "ProjectGuid": "7941f5a3-61fb-49c6-9f53-f64ab890dc90",
+      "DisplayName": "PruebasTecnicasYT",
+      "ColorIndex": 0
+    },
+    "e23f3cfb-d318-4298-bac3-8d995436a576": {
+      "ProjectGuid": "e23f3cfb-d318-4298-bac3-8d995436a576",
+      "DisplayName": "InvertirCadena",
+      "ColorIndex": 1
+    },
+    "fb08dee5-1a6f-4cde-8a57-4c992078f138": {
+      "ProjectGuid": "fb08dee5-1a6f-4cde-8a57-4c992078f138",
+      "DisplayName": "CaracterRepetido",
+      "ColorIndex": 2
+    },
+    "551884d7-1a27-428e-90ed-f63b0aa69f7e": {
+      "ProjectGuid": "551884d7-1a27-428e-90ed-f63b0aa69f7e",
+      "DisplayName": "InvertirCadena",
+      "ColorIndex": 3
+    },
+    "b46e7102-7c04-4e7f-81c3-0e138468e7b5": {
+      "ProjectGuid": "b46e7102-7c04-4e7f-81c3-0e138468e7b5",
+      "DisplayName": "InvertirCadena",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

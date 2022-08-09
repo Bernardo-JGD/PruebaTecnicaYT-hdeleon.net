@@ -1,0 +1,8 @@
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\CaracterRepetido\bin\Debug\CaracterRepetido.exe.config
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\CaracterRepetido\bin\Debug\CaracterRepetido.exe
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\CaracterRepetido\bin\Debug\CaracterRepetido.pdb
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\CaracterRepetido\obj\Debug\CaracterRepetido.csproj.AssemblyReference.cache
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\CaracterRepetido\obj\Debug\CaracterRepetido.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\CaracterRepetido\obj\Debug\CaracterRepetido.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\CaracterRepetido\obj\Debug\CaracterRepetido.exe
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\CaracterRepetido\obj\Debug\CaracterRepetido.pdb
