@@ -25,7 +25,17 @@
       "ProjectGuid": "b46e7102-7c04-4e7f-81c3-0e138468e7b5",
       "DisplayName": "InvertirCadena",
       "ColorIndex": 4
+    },
+    "ef041a00-3902-4c9e-ba59-d75e291beec2": {
+      "ProjectGuid": "ef041a00-3902-4c9e-ba59-d75e291beec2",
+      "DisplayName": "DistanciaHamming",
+      "ColorIndex": 5
+    },
+    "d7370c2d-d15d-4631-a73e-561e4220dd16": {
+      "ProjectGuid": "d7370c2d-d15d-4631-a73e-561e4220dd16",
+      "DisplayName": "ContadorPalabras",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }

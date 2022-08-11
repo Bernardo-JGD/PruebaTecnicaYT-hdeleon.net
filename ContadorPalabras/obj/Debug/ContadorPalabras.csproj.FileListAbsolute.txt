@@ -1,0 +1,8 @@
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\ContadorPalabras\bin\Debug\ContadorPalabras.exe.config
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\ContadorPalabras\bin\Debug\ContadorPalabras.exe
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\ContadorPalabras\bin\Debug\ContadorPalabras.pdb
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\ContadorPalabras\obj\Debug\ContadorPalabras.csproj.AssemblyReference.cache
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\ContadorPalabras\obj\Debug\ContadorPalabras.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\ContadorPalabras\obj\Debug\ContadorPalabras.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\ContadorPalabras\obj\Debug\ContadorPalabras.exe
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\ContadorPalabras\obj\Debug\ContadorPalabras.pdb
