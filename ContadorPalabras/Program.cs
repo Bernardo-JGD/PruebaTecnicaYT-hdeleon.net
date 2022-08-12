@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 
 namespace ContadorPalabras
 {
@@ -37,8 +38,9 @@ namespace ContadorPalabras
 
         static void yo2()
         {
-            string oracion = "Texto que contiene cinco palabras ";
+            string oracion = "Texto    que contiene    cinco palabras   ";
             string palabra = "";
+            List<string> palabras = new List<string>();
             int contador = 0;
             for (int i = 0; i < oracion.Length; i++)
             {
@@ -50,11 +52,12 @@ namespace ContadorPalabras
                 {
                     contador++;
                     Console.WriteLine(palabra);
+                    palabras.Add(palabra);
                     palabra = "";
                 }
             }
 
-            Console.WriteLine(contador);
+            Console.WriteLine(palabras.Count);
         }
 
         static void video1()
@@ -75,8 +78,15 @@ namespace ContadorPalabras
             n = words.Length;
             Console.WriteLine("Video op 2: " + n);
 
-           /*¿Pero si tuviera espacios en todas partes?*/
+            /*¿Pero si tuviera espacios en todas partes?*/
+            oracion = "  Texto    que  contiene    cinco     palabras     ";
 
+            oracion = Regex.Replace(oracion, @"\s+", " ").Trim();
+            /* @"\s+" ---- Quita uno o más espacios entre las palabras
+             y trim quita los espacios de los extremos*/
+            words = oracion.Split(' ');
+            n = words.Length;
+            Console.WriteLine("Solucion con regex: " + n);
         }
 
     }
