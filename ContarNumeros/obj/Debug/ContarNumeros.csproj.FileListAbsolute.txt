@@ -1,0 +1,8 @@
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\ContarNumeros\bin\Debug\ContarNumeros.exe.config
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\ContarNumeros\bin\Debug\ContarNumeros.exe
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\ContarNumeros\bin\Debug\ContarNumeros.pdb
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\ContarNumeros\obj\Debug\ContarNumeros.csproj.AssemblyReference.cache
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\ContarNumeros\obj\Debug\ContarNumeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\ContarNumeros\obj\Debug\ContarNumeros.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\ContarNumeros\obj\Debug\ContarNumeros.exe
+C:\Users\PRIDE RABBIT\source\repos\PruebasTecnicasYT\ContarNumeros\obj\Debug\ContarNumeros.pdb

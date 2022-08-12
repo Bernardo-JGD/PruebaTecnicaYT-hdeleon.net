@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanciaHamming", "Distanc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContadorPalabras", "ContadorPalabras\ContadorPalabras.csproj", "{D7370C2D-D15D-4631-A73E-561E4220DD16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContarNumeros", "ContarNumeros\ContarNumeros.csproj", "{11921EA4-5577-4956-A595-3544E9540F94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{D7370C2D-D15D-4631-A73E-561E4220DD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7370C2D-D15D-4631-A73E-561E4220DD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7370C2D-D15D-4631-A73E-561E4220DD16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11921EA4-5577-4956-A595-3544E9540F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11921EA4-5577-4956-A595-3544E9540F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11921EA4-5577-4956-A595-3544E9540F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11921EA4-5577-4956-A595-3544E9540F94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{B46E7102-7C04-4E7F-81C3-0E138468E7B5} = {2A19A263-9333-4701-B6CB-F1A2A3533134}
 		{EF041A00-3902-4C9E-BA59-D75E291BEEC2} = {2A19A263-9333-4701-B6CB-F1A2A3533134}
 		{D7370C2D-D15D-4631-A73E-561E4220DD16} = {2A19A263-9333-4701-B6CB-F1A2A3533134}
+		{11921EA4-5577-4956-A595-3544E9540F94} = {2A19A263-9333-4701-B6CB-F1A2A3533134}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75E5BE4D-30D2-4391-AF0D-59F04AF07C03}
